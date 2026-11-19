@@ -48,7 +48,7 @@
 }
 
 .container::after{
-    content: 'HOURS';
+    content: '';
     width: 180px;
     height: 180px;
     background-color: #1905ee;
@@ -69,7 +69,7 @@
 }
 
 .clock span::after{
-    content: 'HOURS';
+    content: '';
     font-size: 16px;
     position: absolute;
     bottom: -5px;
